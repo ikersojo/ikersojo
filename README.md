@@ -6,7 +6,9 @@
 
 ---
 
+
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ikersojo&data=followers,repositories,stars,commits)
+
 
 ## 42 Common Core Progress:
 
