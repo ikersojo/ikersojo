@@ -10,7 +10,6 @@
 
 ## 42 Common Core Progress:
 
-![COMMON_CORE](./Common_Core_Progress.png?raw=true)
 <p align="center">
   <img src="./Common_Core_Progress.png" />
 </p>
@@ -18,8 +17,6 @@
 <p align="center">
   <img src="./scores.png" />
 </p>
-
-![SCORES](./scores.png?raw=true)
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python)
 
