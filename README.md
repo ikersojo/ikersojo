@@ -20,7 +20,7 @@
   <img src="./scores.png" />
 </p>
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,python)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,python)
 
 <!--
 **ikersojo/ikersojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
